@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://career.habr.com/sergeev-anton21" target="_blank">Anton</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Software Engineer, C++ Developer from Russia U+1F1F7</h3>
+<h3 align="center">Software Engineer, C++ Developer from Russia &#U+1F1F7</h3>
 
 &#128736; Стек:
 
